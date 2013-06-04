@@ -1,0 +1,121 @@
+[
+	{
+		"args": null,
+		"command": "cut"
+	},
+	{
+		"args":
+		{
+			"to": "indentation"
+		},
+		"command": "expand_selection"
+	},
+	{
+		"args":
+		{
+			"to": "indentation"
+		},
+		"command": "expand_selection"
+	},
+	{
+		"args":
+		{
+			"to": "indentation"
+		},
+		"command": "expand_selection"
+	},
+	{
+		"args":
+		{
+			"to": "indentation"
+		},
+		"command": "expand_selection"
+	},
+	{
+		"args":
+		{
+			"to": "indentation"
+		},
+		"command": "expand_selection"
+	},
+	{
+		"args":
+		{
+			"to": "indentation"
+		},
+		"command": "expand_selection"
+	},
+	{
+		"args":
+		{
+			"to": "indentation"
+		},
+		"command": "expand_selection"
+	},
+	{
+		"args":
+		{
+			"extend": false,
+			"to": "eol"
+		},
+		"command": "move_to"
+	},
+	{
+		"args":
+		{
+			"characters": "\n\nfunction"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " name"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"contents": "($0)"
+		},
+		"command": "insert_snippet"
+	},
+	{
+		"args":
+		{
+			"by": "characters",
+			"forward": true
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"characters": "\n"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"contents": "{$0}"
+		},
+		"command": "insert_snippet"
+	},
+	{
+		"args":
+		{
+			"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+		},
+		"command": "run_macro_file"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args": null,
+		"command": "paste"
+	}
+]
